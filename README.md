@@ -13,5 +13,7 @@ It allows users to:
 ```cmd
 npm install
 npm start
-![Screenshot](./src/image.png)
+
+  ```markdown
+  ![Screenshot](https://raw.githubusercontent.com/QuntamCoder/react-todo-app/main/src/image.png)
 
