@@ -13,4 +13,5 @@ It allows users to:
 ```cmd
 npm install
 npm start
-![image](https://github.com/user-attachments/assets/81bad3b3-a708-47b5-b3f3-f8191c93d8fb)
+![Screenshot](./image.png)
+
