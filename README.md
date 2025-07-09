@@ -13,5 +13,5 @@ It allows users to:
 ```cmd
 npm install
 npm start
-![Screenshot](./image.png)
+![Screenshot](https://github.com/QuntamCoder/react-todo-app/blob/main/src/image.png)
 
