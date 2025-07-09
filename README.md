@@ -14,4 +14,4 @@ It allows users to:
 npm install
 npm start
 
-![Screenshot](src/image.png)
+![Screenshot](https://raw.githubusercontent.com/QuntamCoder/react-todo-app/main/src/image.png)
