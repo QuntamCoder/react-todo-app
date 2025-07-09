@@ -7,6 +7,7 @@ It allows users to:
 - Add new tasks
 - Mark tasks as done
 - Delete tasks
+![Screenshot](https://raw.githubusercontent.com/QuntamCoder/react-todo-app/main/src/image.png)
 
 # 📦 How to Run
 
@@ -14,4 +15,3 @@ It allows users to:
 npm install
 npm start
 
-![Screenshot](https://raw.githubusercontent.com/QuntamCoder/react-todo-app/main/src/image.png)
